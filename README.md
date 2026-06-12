@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/anish-halamandage-9240a7325)  
 - [GitHub](https://github.com/anishh978-del)  
 - [Instagram](https://www.instagram.com/anish.137)  
-- [Harzio Community](https://harzio.tech)  
+
 
 ### 📂 Featured Projects
 - **ImpactaBridge** → Bridging NGOs, donors, and communities  
